@@ -1,4 +1,4 @@
-# Sqlite
+# Sqflite with cubit
 
 A new Flutter application.
 
